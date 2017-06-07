@@ -3,6 +3,7 @@
 There are two datasets in the package that we use for a project in our [data wrangling and visualization course](https://byuistats.github.io/M335/index.html).  
 
 ```
+
 devtools::install_github("hathawayj/buildings")
 
 ```

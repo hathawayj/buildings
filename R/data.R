@@ -28,24 +28,25 @@
 #' }
 #' @source \url{https://github.com/hathawayj/buildings}
 "climate_zone_fips"
-#'
+
+
 #' Small data set of Idaho buildings
 #'
 #' A dataset containing information on buildings built in Idaho during 2008 and 2009.
 #'
 #' @format A data frame with 3221 rows and 19 variables:
 #' \describe{
-#'   \item{Year}
-#'   \item{Month}
-#'   \item{Census.FIPS}
-#'   \item{FIPS.county}{the Federal Information Processing Standards for county}
-#'   \item{FIPS.state}{the Federal Information Processing Standards for state}
-#'   \item{ProjectTitle}{the name of the project}
+#'   \item{Year}{The year - 2008 or 2009}
+#'   \item{Month}{The numeric number for month of the year}
+#'   \item{Census.FIPS}{Federal Information Processing Standards used by the Census}
+#'   \item{FIPS.county}{The Federal Information Processing Standards for county}
+#'   \item{FIPS.state}{The Federal Information Processing Standards for state}
+#'   \item{ProjectTitle}{The name of the project}
 #'   \item{Address}{The physicall address}
-#'   \item{City}
-#'   \item{State}
-#'   \item{Zipcode}
-#'   \item{County}
+#'   \item{City}{The city name}
+#'   \item{State}{The state id}
+#'   \item{Zipcode}{The 6 number zipcode}
+#'   \item{County}{The county name}
 #'   \item{Type}{Generalized grouping labels}
 #'   \item{Ownership}{One of four levels - county, federal, private,   state)}
 #'   \item{Strys}{Number of stories for the building}
