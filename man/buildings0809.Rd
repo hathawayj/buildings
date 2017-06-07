@@ -4,7 +4,7 @@
 \name{buildings0809}
 \alias{buildings0809}
 \title{Small data set of Idaho buildings}
-\format{A data frame with 3221 rows and 19 variables:
+\format{A data frame with 1248 rows and 18 variables:
 \describe{
   \item{Year}{The year - 2008 or 2009}
   \item{Month}{The numeric number for month of the year}

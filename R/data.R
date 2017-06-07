@@ -34,7 +34,7 @@
 #'
 #' A dataset containing information on buildings built in Idaho during 2008 and 2009.
 #'
-#' @format A data frame with 3221 rows and 19 variables:
+#' @format A data frame with 1248 rows and 18 variables:
 #' \describe{
 #'   \item{Year}{The year - 2008 or 2009}
 #'   \item{Month}{The numeric number for month of the year}
@@ -58,3 +58,17 @@
 #' }
 #' @source \url{https://github.com/hathawayj/buildings}
 "buildings0809"
+
+
+#' Small data set mapping restaurant names to type of restaurant
+#'
+#' A dataset containing information on restaurants in the US.
+#'
+#' @format A data frame with 487 rows and 2 variables:
+#' \describe{
+#'   \item{Restaurant}{The name of the restaurant}
+#'   \item{Month}{The type of dining experience - Ice Cream, Casual Dining, coffee, Fast Casual, Fast Food, Ice Cream, Pizza}
+#'   ...
+#' }
+#' @source \url{https://github.com/hathawayj/buildings}
+"restaurants"

@@ -18,7 +18,18 @@ A file that has information about each county in the US and how they match to ce
 
 Some data I found for buildings built in Idaho during 2008 and 2009.
 
+### restaurants
+
+A mapping of restaurant names to the type of dining.
+
+* Ice Cream    
+* Casual Dining   
+* coffee   
+* Fast Casual   
+* Fast Food   
+* Ice Cream   
+* Pizza
+
 ## Scripts and Functions
 
 Nothing as of yet.
-
