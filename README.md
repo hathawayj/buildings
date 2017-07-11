@@ -1,6 +1,6 @@
 # Some building data for use in MCS 335
 
-There are two datasets in the package that we use for a project in our [data wrangling and visualization course](https://byuistats.github.io/M335/index.html).  
+There are a few datasets in the package that we use for projects in our [data wrangling and visualization course](https://byuistats.github.io/M335/index.html).  
 
 ```
 
@@ -29,6 +29,10 @@ A mapping of restaurant names to the type of dining.
 * Fast Food   
 * Ice Cream   
 * Pizza
+
+### permits
+
+Residential permit data from 1997 to 2008
 
 ## Scripts and Functions
 

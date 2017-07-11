@@ -72,3 +72,24 @@
 #' }
 #' @source \url{https://github.com/hathawayj/buildings}
 "restaurants"
+
+
+#' Permit Data of Residential Buildings by county (1997 - 2008)
+#'
+#' A dataset containing varied types of residential permits by county.
+#'
+#' @format A data frame with 215670 rows and 8 variables:
+#' \describe{
+#'   \item{State}{The FIPS number for state}
+#'   \item{Statename}{The name of the state}
+#'   \item{county}{The FIPS number for county}
+#'   \item{countyname}{The county name}    
+#'   \item{variable}{The type of permit}
+#'   \item{Year}{Year of permit data}
+#'   \item{Month}{Month of permit data}
+#'   \item{value}{The number of permits}
+#'   ...
+#' }
+#' @source \url{https://github.com/hathawayj/buildings}
+"permits"
+
