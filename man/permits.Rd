@@ -7,12 +7,11 @@
 \format{A data frame with 215670 rows and 8 variables:
 \describe{
   \item{State}{The FIPS number for state}
-  \item{Statename}{The name of the state}
+  \item{StateAbbr}{The name of the state}
   \item{county}{The FIPS number for county}
   \item{countyname}{The county name}    
   \item{variable}{The type of permit}
   \item{Year}{Year of permit data}
-  \item{Month}{Month of permit data}
   \item{value}{The number of permits}
   ...
 }}

@@ -32,7 +32,7 @@ A mapping of restaurant names to the type of dining.
 
 ### permits
 
-Residential permit data from 1997 to 2008
+Annual residential permit data from 1980 to 2010 by county.
 
 ## Scripts and Functions
 
