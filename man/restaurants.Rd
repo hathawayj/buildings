@@ -7,7 +7,7 @@
 \format{A data frame with 487 rows and 2 variables:
 \describe{
   \item{Restaurant}{The name of the restaurant}
-  \item{Month}{The type of dining experience - Ice Cream, Casual Dining, coffee, Fast Casual, Fast Food, Ice Cream, Pizza}
+  \item{Type}{The type of dining experience - Ice Cream, Casual Dining, coffee, Fast Casual, Fast Food, Ice Cream, Pizza}
   ...
 }}
 \source{
