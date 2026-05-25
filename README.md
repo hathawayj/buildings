@@ -1,4 +1,4 @@
-# Some building data for use in MCS 335
+# Some building data for use in DS 350
 
 There are a few datasets in the package that we use for projects in our [data wrangling and visualization course](https://byuistats.github.io/M335/index.html).  
 
